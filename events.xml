@@ -1,7 +1,7 @@
 <events>
     <event>
         <type>Competition</type>
-        <name>Competiton One</name>
+        <name>Competiton Two</name>
         <date>MONTH/DAY/YEAR</date>
         <time>HOUR/MINUTE AMPM - HOUR/MINUTE AMPM (EST)</time>
         <location>STREETADDRESS, CITY, STATE, ZIPCODE</location>
