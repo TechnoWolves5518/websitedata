@@ -1,25 +1,34 @@
 <resources>
-    
+
+
+<!--
+
     <resource>
-        <name>Student Handbook</name>
-        <description>Something</description>
-        <filesharelink>link</filesharelink>
+        <name>Insert Title Here</name>
+        <description>Insert Description Here</description>
+        <filesharelink>Insert File Sharing Link Here</filesharelink>
     </resource>
+
+ -->
+
     <resource>
         <name>How to Join</name>
         <description>Something</description>
         <filesharelink>link</filesharelink>
     </resource>
+
     <resource>
         <name>Sponsorship Packet</name>
         <description>Something</description>
         <filesharelink>link</filesharelink>
     </resource>
+
     <resource>
         <name>Tool Wish List</name>
         <description>Something</description>
         <filesharelink>link</filesharelink>
     </resource>
+    
     <resource>
         <name>How to Donate</name>
         <description>Something</description>

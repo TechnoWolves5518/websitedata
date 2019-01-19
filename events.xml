@@ -1,21 +1,48 @@
 <events>
+
+<!--
     <event>
         <type>Competition</type>
-        <name>Competiton Two</name>
-        <date>MONTH/DAY/YEAR</date>
-        <time>HOUR/MINUTE AMPM - HOUR/MINUTE AMPM (EST)</time>
-        <location>STREETADDRESS, CITY, STATE, ZIPCODE</location>
-        <description>Yeet on taha for all of eternity, brought to you by the technowolves</description>
+
+        <name>Insert Name Here</name>
+        <date>Insert Date Here</date>
+        <time>Insert Start Time and End Time Here</time>
+        <location>Insert Location Here</location>
+        <description>Insert Description Here</description>
     </event>
+ -->
+
+<!--
     <event>
         <type>Outreach</type>
-        <name>Outreach One</name>
-        <date>MONTH/DAY/YEAR</date>
-        <time>HOUR/MINUTE AMPM - HOUR/MINUTE AMPM (EST)</time>
-        <location>STREETADDRESS, CITY, STATE, ZIPCODE</location>
-        <description>Yeet on taha for all of eternity, brought to you by the technowolves</description>
-    </event>
 
+        <name>Insert Name Here</name>
+        <date>Insert Date Here</date>
+        <time>Insert Start Time Here and End Time Here</time>
+        <location>Insert Location Here</location>
+        <description>Insert Description here</description>
+    </event>
+ -->
+
+ <event>
+     <type>Competition</type>
+
+     <name>Competition Event Post Example</name>
+     <date>1/19/2019</date>
+     <time>5:00 AM - 10:00 PM EST</time>
+     <location>NASA HQ</location>
+     <description>Here you can just insert a short description of what the event is and other stuff.</description>
+ </event>
+
+ <event>
+     <type>Outreach</type>
+
+     <name>Outreach Event Post Example</name>
+     <date>1/19/2019</date>
+     <time>10:00 AM - 5:00 PM EST</time>
+     <location>NASA HQ</location>
+     <description>Here you can just insert a short description of what the event is and other stuff.</description>
+ </event>
 
 
 </events>
