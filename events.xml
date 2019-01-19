@@ -1,0 +1,21 @@
+<events>
+    <event>
+        <type>Competition</type>
+        <name>Competiton One</name>
+        <date>MONTH/DAY/YEAR</date>
+        <time>HOUR/MINUTE AMPM - HOUR/MINUTE AMPM (EST)</time>
+        <location>STREETADDRESS, CITY, STATE, ZIPCODE</location>
+        <description>Yeet on taha for all of eternity, brought to you by the technowolves</description>
+    </event>
+    <event>
+        <type>Outreach</type>
+        <name>Outreach One</name>
+        <date>MONTH/DAY/YEAR</date>
+        <time>HOUR/MINUTE AMPM - HOUR/MINUTE AMPM (EST)</time>
+        <location>STREETADDRESS, CITY, STATE, ZIPCODE</location>
+        <description>Yeet on taha for all of eternity, brought to you by the technowolves</description>
+    </event>
+
+
+
+</events>
