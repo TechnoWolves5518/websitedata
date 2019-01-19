@@ -12,4 +12,11 @@
         <paragraph>Hello World!</paragraph>
     </post>
 
+    <post>
+        <title>Blog Post two</title>
+        <date>Date</date>
+        <author>Aneesh Sreedhara</author>
+        <paragraph>goodbye World!</paragraph>
+    </post>
+
 </blogposts>
