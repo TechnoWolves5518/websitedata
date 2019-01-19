@@ -1,0 +1,29 @@
+<resources>
+    
+    <resource>
+        <name>Student Handbook</name>
+        <description>Something</description>
+        <filesharelink>link</filesharelink>
+    </resource>
+    <resource>
+        <name>How to Join</name>
+        <description>Something</description>
+        <filesharelink>link</filesharelink>
+    </resource>
+    <resource>
+        <name>Sponsorship Packet</name>
+        <description>Something</description>
+        <filesharelink>link</filesharelink>
+    </resource>
+    <resource>
+        <name>Tool Wish List</name>
+        <description>Something</description>
+        <filesharelink>link</filesharelink>
+    </resource>
+    <resource>
+        <name>How to Donate</name>
+        <description>Something</description>
+        <filesharelink></filesharelink>
+    </resource>
+
+</resources>
