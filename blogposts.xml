@@ -5,21 +5,24 @@
     <tabtitle>Blog</tabtitle>
     <pagetitle>The Blog</pagetitle>
     
+<!--
 
     <post>
-        <title>Blog Post two</title>
-        <date>Date</date>
-        <author>Aneesh Sreedhara</author>
-        <paragraph>goodbye World!</paragraph>
+        <title>Insert Title Here</title>
+        <date>Insert Date Here</date>
+        <author>Insert Author Name Here</author>
+        <paragraph>Insert paragraph here</paragraph>
     </post>
 
-    <post>
-        <title>Blog Post One</title>
-        <date>Date</date>
-        <author>Aneesh Sreedhara</author>
-        <paragraph>Hello World!</paragraph>
-    </post>
+ -->
 
+     <post>
+        <title>Example Blog Post</title>
+        <date>1/19/2019</date>
+        <author>Aneesh Sreedhara</author>
+        <paragraph>This is an example blog post. You can put multiple paragraphs in here btw.</paragraph>
+        <paragraph>Take a look! This is a second paragraph. Just use multiple paragraph lines like this to add more. </paragraph>
+    </post>
 
 
 </blogposts>
