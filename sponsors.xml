@@ -26,10 +26,19 @@
         <logolink>Insert link to sponsor's logo image</logolink>
         <about>Insert short description of them</about>
     </sponsor>
+-->
+<!--
+    <sponsor>
+        <level>bronze</level>
+
+        <name>Insert Name Here</name>
+        <logolink>Insert link to sponsor's logo image</logolink>
+        <about>Insert short description of them</about>
+    </sponsor>
  -->
 
  <sponsor>
-     <level>bronze</level>
+     <level>diamond</level>
 
      <name>Example Sponsor</name>
      <logolink>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/400px-NASA_logo.svg.png</logolink>
