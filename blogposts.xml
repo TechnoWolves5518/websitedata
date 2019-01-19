@@ -5,12 +5,6 @@
     <tabtitle>Blog</tabtitle>
     <pagetitle>The Blog</pagetitle>
     
-    <post>
-        <title>Blog Post One</title>
-        <date>Date</date>
-        <author>Aneesh Sreedhara</author>
-        <paragraph>Hello World!</paragraph>
-    </post>
 
     <post>
         <title>Blog Post two</title>
@@ -18,5 +12,14 @@
         <author>Aneesh Sreedhara</author>
         <paragraph>goodbye World!</paragraph>
     </post>
+
+    <post>
+        <title>Blog Post One</title>
+        <date>Date</date>
+        <author>Aneesh Sreedhara</author>
+        <paragraph>Hello World!</paragraph>
+    </post>
+
+
 
 </blogposts>
