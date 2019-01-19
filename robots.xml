@@ -1,0 +1,14 @@
+<robots>
+
+    <robot>
+        <name>Wolfbyte</name>
+        <year>2017-2018</year>
+        <imagelink>http://www.test.technowolves.org/Home/assets/wolfbyte.jpg</imagelink>
+        <description>This is the best robot so far because i wa on the team.</description>
+        <features>
+            <feature>Cool</feature>
+            <feature>Stuff</feature>
+        </features>
+    </robot>
+
+</robots>
