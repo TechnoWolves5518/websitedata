@@ -36,13 +36,28 @@
         <about>Insert short description of them</about>
     </sponsor>
  -->
+ <sponsor>   
+     <level>diamond</level>
 
+        <name>Ingenuitas</name>
+        <logolink>https://static1.squarespace.com/static/58896f3e03596e8d03a9b14e/t/596d5fc6d1758e3b45188698/1500339992870/?format=1500w</logolink>
+        <about>Ingenuitas mission is to implement both existing and novel technologies, alleviating the burden of poverty for generations to come. </about>
+ </sponsor>
+ 
  <sponsor>
      <level>diamond</level>
 
-     <name>Example Sponsor</name>
-     <logolink>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/400px-NASA_logo.svg.png</logolink>
-     <about>THis is a sponsor I expect you guys to get >:(</about>
+        <name>ITP</name>
+        <logolink>https://media.licdn.com/dms/image/C4E0BAQH1JVk4GZN1vw/company-logo_200_200/0?e=2159024400&v=beta&t=a4Ik49xIB5kvsnZ-LyLViIJhYGFsKQ7Bv9yKGeAbYjU</logolink>
+        <about>ITP works with a variety of financial services firms. With a focus on Independent RIAs, ITP goes beyond the network, and beyond the day-to-day support.  They deliver value in  areas of Cybersecurity Compliance, Industry Education, and Practice Management.</about>
  </sponsor>
+    
+ <sponsor>
+    <level>silver</level>
+
+        <name>Apex Tool Group</name>
+        <logolink>http://top-brands.com/portals/11/Images/Logos/Apex%20Tool%20Group.JPG</logolink>
+        <about>Apex Tool Group (ATG) is one of the largest manufacturers of professional hand and power tools in the world, serving the industrial, vehicle service and assembly, aerospace, electronics, construction and serious DIY markets.</about>
+    </sponsor>
 
 </sponsors>
