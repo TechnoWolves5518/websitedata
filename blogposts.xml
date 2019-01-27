@@ -7,6 +7,14 @@
     
 <!--
 
+    Copy the template below this and paste it under this comment section.
+    The just insert information where it tells you to.
+    All sections should be ordered by date (with the section on top being the newest and the bottom the oldest).
+    If you have questions, ask Aneesh.
+
+
+    SECTION TEMPLATE - BLOG POST TEMPLATE
+
     <post>
         <title>Insert Title Here</title>
         <date>Insert Date Here</date>
@@ -15,14 +23,6 @@
     </post>
 
  -->
-
-     <post>
-        <title>Example Blog Post</title>
-        <date>1/19/2019</date>
-        <author>Aneesh Sreedhara</author>
-        <paragraph>This is an example blog post. You can put multiple paragraphs in here btw.</paragraph>
-        <paragraph>Take a look! This is a second paragraph. Just use multiple paragraph lines like this to add more. </paragraph>
-    </post>
 
 
 </blogposts>
