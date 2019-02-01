@@ -11,4 +11,15 @@
         </features>
     </robot>
 
+    <robot>
+        <name>Robot Name</name>
+        <imagelink>http://www.test.technowolves.org/Home/assets/wolfbyte.jpg</imagelink>
+        <year>20XX-XX</year>
+        <description>Description goes here</description>
+        <features>
+            <feature>Cool</feature>
+            <feature>Stuff</feature>
+        </features>
+    </robot>
+
 </robots>
